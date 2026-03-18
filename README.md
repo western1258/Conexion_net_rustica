@@ -69,9 +69,6 @@ iw para escaneo de redes
 
 wpa_supplicant para conexión WiFi
 
-Estructura del proyecto
-net_rustico.sh
-README.md
 Autor
 
 Juan Elías Antonio Ramírez
